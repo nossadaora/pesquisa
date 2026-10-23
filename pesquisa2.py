@@ -3,7 +3,7 @@ print("Pesquisa de Atendimento - TudoWeb")
 excelente = 0
 ruim = 0
 
-for i in range(10):
+for i in range(50):
     print("\nEntrevistado", i + 1)
 
     nome = input("Nome: ")
