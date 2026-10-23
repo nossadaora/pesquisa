@@ -42,4 +42,10 @@ python pesquisa.py
 
 O programa pode ser executado com 10 entrevistados para testar seu funcionamento. Na versão final da pesquisa, o laço de repetição deve ser configurado para receber 50 entrevistados, conforme solicitado na atividade.
 
-## 🎯 Objet
+## 🎯 Objetivo acadêmico
+
+Praticar os conceitos básicos de Python, incluindo entrada de dados, variáveis, estruturas de repetição, estruturas de decisão e contadores.
+
+---
+
+**Projeto desenvolvido para fins educacionais.**
